@@ -1,0 +1,2 @@
+Java is a high-level programming language. It is used for building various applications.
+java is an oops oriented language
